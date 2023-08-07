@@ -25,7 +25,7 @@ namespace GDE.Cloud.Keyvault.API
 
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build();
+            //CreateHostBuilder(args).Build();
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
