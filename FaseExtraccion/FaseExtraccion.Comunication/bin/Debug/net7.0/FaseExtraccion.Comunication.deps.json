@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FaseExtraccion.Comunication/1.0.0": {
+        "dependencies": {
+          "FaseExtracion.Infraestructure": "1.0.0"
+        },
+        "runtime": {
+          "FaseExtraccion.Comunication.dll": {}
+        }
+      },
+      "FaseExtracion.Infraestructure/1.0.0": {
+        "runtime": {
+          "FaseExtracion.Infraestructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FaseExtraccion.Comunication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FaseExtracion.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
